@@ -15,8 +15,11 @@
 
 ## 📹 معاينة النظام
 
-<!-- ضع هنا الـ GIF المتحرك -->
-![معاينة النظام](https://aldhihaexams.com/video_2025-06-19_00-24-10.gif)
+![صفحة تسجيل دخول لنظام الكاشير](https://github.com/albna3681/casheer/blob/6642f735cc35a746a75aa034d2b94b81b34cad92/FireShot_Capture_010_%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84_%D9%83%D8%A7%D8%B4%D9%8A%D8%B1_eng_islammasood_com.png)
+![صفحة لوحة التحكم وعرض جميع الاوراردات وانهاء الجلسة وجميع البيانات والاحصائيات ](https://github.com/albna3681/casheer/raw/6642f735cc35a746a75aa034d2b94b81b34cad92/FireShot_Capture_011_%D9%84%D9%88%D8%AD%D8%A9_%D8%AA%D8%AD%D9%83%D9%85_%D8%A7%D9%84%D9%83%D8%A7%D8%B4%D9%8A%D8%B1_eng_islammasood_com.png)
+![صفحة المنتجات وانشاء اوردر واختيار منتجات الاوردر](https://github.com/albna3681/casheer/blob/6642f735cc35a746a75aa034d2b94b81b34cad92/FireShot_Capture_012_%D9%86%D9%82%D8%B7%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9_POS_eng_islammasood_com.png)
+![صفحة اكمال الطلب والدفع وحساب الباقي ]([رابط_الصورة_4](https://github.com/albna3681/casheer/blob/6642f735cc35a746a75aa034d2b94b81b34cad92/FireShot_Capture_014_%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%AF%D9%81%D8%B9_POS_eng_islammasood_com.png))
+![صفحة الفاتورة](https://github.com/albna3681/casheer/blob/6642f735cc35a746a75aa034d2b94b81b34cad92/FireShot_Capture_016_%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9_eng_islammasood_com.png)
 
 ---
 
